@@ -1,0 +1,46 @@
+body {
+
+background-image: url("../images/mac2.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+color: grey;
+font-size: 50px;
+font-weight: light;
+margin-bottom: 0;
+}
+
+h2 {
+
+color: white;
+font-size: 20px;
+font-weight: normal;
+margin-bottom: 0;
+}
+
+.bio{
+	color: red;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.me{
+	height: 250px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 50px;
+}
+
+#container {
+
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+}
+    
+
